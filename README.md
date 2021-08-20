@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Vemn!
+- 👀 I’m interested in Java, Javascript, and PHP!
+- 🌱 I’m currently learning [all of the above].
